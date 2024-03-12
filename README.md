@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stevencoyan, a Master's student at the Universtiy of Colorado Boulder
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on any data science projects related to athletics or physiology.
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on any data science projects related to athletics, physiology or health.
 - 📫 How to reach me: stco4098@colorado.edu
 
 <!---
